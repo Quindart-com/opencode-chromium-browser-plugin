@@ -1,7 +1,0 @@
-node_modules/
-tests/
-native-host/test/
-scripts/extension-id.json
-reports/
-*.tgz
-package-lock.json
